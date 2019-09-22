@@ -1,6 +1,12 @@
 # Twitter Sentiment Analysis
 
-Twitter sentiment analysis performed in R (web application)
+Twitter sentiment analysis performed in R (web application) <br/><br/>
+**R version:** 3.4.4 <br />
+**R studio version:** 1.1.442 <br />
+**Data transformation packages:** base64en, anytime, gmp, stringr, textcat, SnowballC and tm <br />
+**Twitter API packages:** twitteR and ROAuth <br />
+**R shiny packages:** shinythemes, shinyjs, shinyWidgets, DT, RcolorBrewer, wordcloud and wordcloud2 <br />
+**Sentiment analysis packages:** e1071 and RTextTools <br />
 
 #### **Application architecture**
 
